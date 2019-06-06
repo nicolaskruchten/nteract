@@ -15,7 +15,7 @@
     "@nteract/core": "^10.5.0",
     "@nteract/types": "^4.2.1",
     "@blueprintjs/core": "^3.7.0",
-    "react-redux": "^6.0.0",
+    "react-redux": "^7.0.0",
     "redux": "^4.0.0",
     "styled-components": "^4.1.3"
   },
